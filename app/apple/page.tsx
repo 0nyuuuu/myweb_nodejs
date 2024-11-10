@@ -24,6 +24,6 @@ export default function Home() {
 
 function like() {
   //.log("like!!!");
-  prompt("Like!!")
+  prompt("Like!!!")
   confirm("yes or no!!");
 }
